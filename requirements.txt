@@ -1,0 +1,6 @@
+argparse
+opencv-python
+matplotlib
+numpy
+pillow
+translate
